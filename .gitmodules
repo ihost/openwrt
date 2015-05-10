@@ -1,3 +1,18 @@
 [submodule "package/chinadns"]
 	path = package/chinadns
 	url = git@github.com:aa65535/openwrt-chinadns.git
+[submodule "package/dnsmasq"]
+	path = package/dnsmasq
+	url = git@github.com:aa65535/openwrt-dnsmasq.git
+[submodule "package/shadowsocks-libev"]
+	path = package/shadowsocks-libev
+	url = git@github.com:shadowsocks/openwrt-shadowsocks.git
+[submodule "package/shadowvpn"]
+	path = package/shadowvpn
+	url = git@github.com:aa65535/openwrt-shadowvpn.git
+[submodule "package/openwrt-dist-luci"]
+	path = package/openwrt-dist-luci
+	url = git@github.com:aa65535/openwrt-dist-luci.git
+[submodule "package/redsocks2"]
+	path = package/redsocks2
+	url = git@github.com:aa65535/openwrt-redsocks2.git
