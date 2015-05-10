@@ -1,0 +1,3 @@
+[submodule "package/chinadns"]
+	path = package/chinadns
+	url = git@github.com:aa65535/openwrt-chinadns.git
